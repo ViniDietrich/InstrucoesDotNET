@@ -1,0 +1,3 @@
+c:\Users\Vinicius\Desktop\Projetos\Intruções dotNET\obj\Debug\netcoreapp3.1\Intruções dotNET.csprojAssemblyReference.cache
+c:\Users\Vinicius\Desktop\Projetos\Intruções dotNET\obj\Debug\netcoreapp3.1\Intruções dotNET.AssemblyInfoInputs.cache
+c:\Users\Vinicius\Desktop\Projetos\Intruções dotNET\obj\Debug\netcoreapp3.1\Intruções dotNET.AssemblyInfo.cs
